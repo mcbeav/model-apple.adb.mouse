@@ -6,3 +6,4 @@ This is not an entirely original model, I took an already existing model, and ha
 
 The original Apple ADB Mouse model: https://www.thingiverse.com/thing:4545460
 
+![Model](https://raw.githubusercontent.com/mcbeav/model-apple.adb.mouse/refs/heads/main/photos/model.PNG)
